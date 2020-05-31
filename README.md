@@ -13,3 +13,11 @@ By our project, it would be easy for the investor to buy and sell stocks. Our re
 We used Python programming language to implement our work.
 The deep learning approaches were involved using the Keras Regression Model.
 The performance of approaches was measured and compared using the Mean Squared Error (MSE).
+
+Final Results:
+MSE (Mean Squared Error) of Each algorithm was:
+Moving Average: 108
+ARIMA: 55
+LSTM: 53
+IndRNN: 46
+Our suggested Fine-Tined IndRNN: 44
